@@ -1,6 +1,10 @@
 <!-- Profile README for github.com/ayamontasser-2404 -->
 
 <div align="center">
+  <img src="assets/github-banner.svg" alt="Aya Montasser — Senior Frontend Engineer focused on React, TypeScript, AI-enabled products, and healthcare technology" width="100%" />
+</div>
+
+<div align="center">
 
 # Aya Montasser
 
