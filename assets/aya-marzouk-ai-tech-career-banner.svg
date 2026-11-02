@@ -57,7 +57,7 @@
   <g font-family="Arial, Helvetica, sans-serif" fill="#101d3f">
     <text x="625" y="135" font-size="76" font-weight="800" letter-spacing="-2">Aya Marzouk</text>
     <rect x="620" y="162" width="925" height="66" rx="30" fill="#e2ecff"/>
-    <text x="646" y="205" font-size="29" font-weight="700">Technical Project Manager | Frontend Engineer (React, TypeScript) | AI Products</text>
+    <text x="646" y="205" font-size="23" font-weight="700">Technical Project Manager | Frontend Engineer (React, TypeScript) | AI Products</text>
     <text x="627" y="282" font-size="31" font-weight="400">Building, leading, and delivering AI-powered products</text>
     <text x="627" y="323" font-size="31" font-weight="400">from idea to impact</text>
   </g>
